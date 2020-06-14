@@ -3,7 +3,7 @@
         {
             "StarWars1": [
                 {
-                    "Republic": [
+                    "Republic": 
                         {
                             "li": "Palpatine, senator of Naboo",
                             "image": "<img src='../images/starwars1/palpatine_senator.png'>",
@@ -14,10 +14,10 @@
                             "image": "",
                             "index": "2"
                         }
-                    ]
+                    
                 },
                 {
-                    "Separatist": [
+                    "Separatist": 
                         {
                             "li": "",
                             "image": "",
@@ -28,10 +28,10 @@
                             "image": "",
                             "index": "2"
                         }
-                    ]
+                    
                 },
                 {
-                    "Neutral": [
+                    "Neutral": 
                         {
                             "li": "",
                             "image": "",
@@ -42,7 +42,7 @@
                             "image": "",
                             "index": "2"
                         }
-                    ]
+                    
                 }
             ]
         }

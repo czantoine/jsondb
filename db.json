@@ -1,50 +1,56 @@
-
-  {
-    "Page": [
-      {
-        "themePage": "StarWarsI" [
-          {
-            "ThemeId": "Republic" [
-              {
-                "li": "Palpatine, senator of Naboo",
-                "image": "<img src='../Images/StarWars1/Palpatine_Senator.png'>",
-                "index": "1"
-              },
-              {
-                "li": "",
-                "image": "",
-                "index": "2"
-              }
-            ]
-          },
-          {
-            "ThemeId": "Separatist"[
-              {
-                "li": "",
-                "image": "",
-                "index": "1"
-              },
-              {
-                "li": "",
-                "image": "",
-                "index": "2"
-              }
-            ]
-          },
-          {
-            "ThemeId": "Neutral"[
-              {
-                "li": "",
-                "image": "",
-                "index": "1"
-              },
-              {
-                "li": "",
-                "image": "",
-                "index": "2"
-              }
-            ]
-          }  
+{
+  "Page": [
+    {
+      "themePage": "StarWarsI",
+      "Elements": {
+          "ThemeId": "Republic",
+          "characters": [
+            {
+              "li": "Palpatine, senator of Naboo",
+              "image": "<img src='../images/starwars1/palpatine_senator.png'>",
+              "index": "1"
+            },
+            {
+              "li": "",
+              "image": "",
+              "index": "2"
+            }
+          ]
+        },
+          "ThemeId": "Separatist",
+          "characters": [
+            {
+              "li": "",
+              "image": "",
+              "index": "1"
+            },
+            {
+              "li": "",
+              "image": "",
+              "index": "2"
+            }
+          ]
+        },
+        {
+          "ThemeId": "Neutral",
+          "Themeelements": [
+            {
+              "characters": [
+                {
+                  "li": "",
+                  "image": "",
+                  "index": "1"
+                },
+                {
+                  "li": "",
+                  "image": "",
+                  "index": "2"
+                }
+              ]
+            }
+          ]
         }
-    ]
-  }
+      ]
+    }
+  ]
+}

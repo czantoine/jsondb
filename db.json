@@ -2,11 +2,9 @@
   {
     "Page": [
       {
-        "themePage": "StarWarsI",
-        "Elements": [
+        "themePage": "StarWarsI" [
           {
-            "ThemeId": "Republic",
-            "characters": [
+            "ThemeId": "Republic" [
               {
                 "li": "Palpatine, senator of Naboo",
                 "image": "<img src='../Images/StarWars1/Palpatine_Senator.png'>",
@@ -20,8 +18,7 @@
             ]
           },
           {
-            "ThemeId": "Separatist",
-            "characters": [
+            "ThemeId": "Separatist"[
               {
                 "li": "",
                 "image": "",
@@ -35,21 +32,16 @@
             ]
           },
           {
-            "ThemeId": "Neutral",
-            "Themeelements": [
+            "ThemeId": "Neutral"[
               {
-                "characters": [
-                  {
-                    "li": "",
-                    "image": "",
-                    "index": "1"
-                  },
-                  {
-                    "li": "",
-                    "image": "",
-                    "index": "2"
-                  }
-                ]
+                "li": "",
+                "image": "",
+                "index": "1"
+              },
+              {
+                "li": "",
+                "image": "",
+                "index": "2"
               }
             ]
           }
